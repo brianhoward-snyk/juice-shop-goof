@@ -1,3 +1,9 @@
+# Brian is adding a comment on Friday May 9 in VS Code.
+
+
+
+
+
 FROM node:20-buster as installer
 COPY . /juice-shop
 WORKDIR /juice-shop
